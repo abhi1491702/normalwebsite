@@ -1,0 +1,97 @@
+
+#new{
+  background-image: url('web3.jpg');
+}
+.go-input{
+  margin-left: 30px;
+  margin-top: 150px;
+  width: 50%;
+  height: 30px;
+  border-radius: 10px;
+
+}
+h2{
+  color: f3c623;
+}
+h1{
+	color: #ffffff;
+	text-transform: uppercase;
+	text-align: center;
+	font-size: 30px;
+
+}
+
+
+.dropbtn {
+  background-color: #2f4f4f;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+
+}
+
+
+.dropdown {
+  position: right;
+  display: inline-block;
+}
+
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content a:hover {background-color: #ddd;}
+
+
+.dropdown:hover .dropdown-content {display: block;}
+
+
+.dropdown:hover .dropbtn {background-color: #3e8e41;}
+
+header{
+
+background: #2f4f4f;
+	background-image: url("../images/flywheel.jpg");
+	background-repeat: no-repeat;
+	background-position: top;
+	background-size: cover;
+	padding-bottom: 50px;
+}
+button {
+    background-color: #f5cab3;
+    margin: 0px 50px 0px 50px;
+    border:50%;
+}
+#latest{
+  background-color: white;
+  background-image: url('web5.jpg');
+}
+#private{
+  background-color: white;
+  background-image: url('web5.jpg');
+}
+#gov{
+  background-color: white;
+  background-image: url('web5.jpg');
+}
+#youtube{
+  background-color: white;
+  background-image: url('web5.jpg');
+}
+marquee{
+  font-size: 25px;
+}

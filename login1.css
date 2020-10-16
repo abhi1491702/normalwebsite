@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Rowdies:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+
+body{
+background: #2f4f4f;
+/*  background-image: url("target1.jpg");*/
+   /* fallback for old browsers */
+/* background: -webkit-linear-gradient(to right, #3f2b96, #a8c0ff);  /* Chrome 10-25, Safari 5.1-6 */
+/*  background: linear-gradient(to right, #3f2b96, #a8c0ff); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+.Mysubmission{
+  margin-top: 50px;
+  font-family: Rowdies,sans-serif;
+  color:#fda403;
+  font-size: 20px;
+}
+.input{
+  border-radius: 10px;
+
+  width: 35%;
+  height: 22px;
+}
+.login{
+  border-radius: 10px;
+  border: 50p
+  width: 10%;
+  height: 25px;
+}
+marquee {
+  color: #ff0000;
+  background-color: #d3d3d3;
+}
+fieldset{
+  margin-right: 30%;
+  margin-left: 30%;
+background:#ffffff;
+}
+
+h4{
+  color:#BBE1FA#3282B8#0F4C75#1B262C;
+  font-family: Rowdies , sans-serif;
+  font-size: 100%;
+}
